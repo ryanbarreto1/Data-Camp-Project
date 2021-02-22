@@ -1,0 +1,15 @@
+# In this project code scaffolding will only be given for functions that were not 
+# explained in the prerequisite courses. Look at the hints if you need help.
+
+# Load the packages
+# .... YOUR CODE FOR TASK 1 ....
+library(readr)
+library(dplyr)
+# Read in the data from the datasets folder
+# .... YOUR CODE FOR TASK 1 ....
+wwc_raw <- read_csv(2019_WWCFIFA_sumary.csv)
+
+# Check the dimensions and structure of the data
+# .... YOUR CODE FOR TASK 1 ....
+
+esto no esta bien seguramente
